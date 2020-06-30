@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=452E157C-5A69-4AE5-8507-8C8D52D88744
+VaultGUID=F017405F-5431-43E7-AEE2-D9D054FE60A7
+ReleaseVaultName=Altium, Inc. U31
+ItemGUID=452E157C-5A69-4AE5-8507-8C8D52D88744
 IncludeDesignInRelease=0
 
 [Preferences]
